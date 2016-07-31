@@ -1,0 +1,12 @@
+@import "settings";
+@import "base";
+// @import "navigation";
+// @import "hero";
+// @import "content";
+// @import "footer";
+// @import "landing";
+// @import "cta";
+
+// Include foundation files
+@import "foundation";
+@include foundation-everything;
