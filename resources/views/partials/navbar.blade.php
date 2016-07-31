@@ -1,13 +1,13 @@
 <div class="title-bar" data-responsive-toggle="obstacle-nav" data-hide-for="medium">
         <button class="menu-icon" type="button" data-toggle></button>
-        <div class="title-bar-title"><a href="/">1000Subscribers</a></div>
+        <div class="title-bar-title"><a href="/">1000 Subscribers</a></div>
     </div>
 
 <nav class="top-bar" data-topbar id="mc-menu">
   @if (Auth::check())
     <div class="top-bar-left">
       <ul class="vertical medium-horizontal menu" data-dropdown-menu>
-        <li class="menu-text hide-for-small-only"><a href="/">1000Subscribers</a></li>
+        <li class="menu-text hide-for-small-only"><a href="/">1000 Subscribers</a></li>
         <!--<li @if (Request::is('series*')) class="active" @endif><a href="/dashboard">Series</a></li>-->
       </ul>
     </div>
@@ -26,8 +26,7 @@
   @else
     <div class="top-bar-left">
       <ul class="vertical medium-horizontal menu" data-dropdown-menu>
-        <li class="logo hide-for-small-only"><a href="/"><img src="/assets/img/logo-yellow.png" alt="Quonders"></a></li>
-        <li class="menu-text hide-for-small-only"><a href="/">1000Subscribers</a></li>
+        <li class="menu-text hide-for-small-only"><a href="/">1000 Subscribers</a></li>
         <li class="alt-text hide-for-small-only">An <a href="https://obstacle.co" target="_blank">Obstacle.co</a> Course</li>
       </ul>
     </div>

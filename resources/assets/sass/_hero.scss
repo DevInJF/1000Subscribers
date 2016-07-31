@@ -1,0 +1,29 @@
+.hero {
+	padding: 3rem 0;
+	background: linear-gradient(to left, rgba($blue, 0.95) 10%, rgba($blue, 0.95) 90%), url('/assets/img/audience.jpg') no-repeat center fixed;
+	background-size: cover;
+	text-align: center;
+	color: $white;
+	p {
+		font-family: $body-font-serif;
+		font-style: italic;
+		margin-bottom: 0;
+	}
+	h1 {
+		font-family: $body-font-sans-serif;
+	}
+	@include breakpoint(large) {
+		h1 {
+			font-size: 4rem;
+			line-height: 1;
+			margin-bottom: 1rem;
+		}
+		h2 {
+			font-size: 2.5rem;
+			line-height: 1;
+		}
+		p {
+			font-size: 2rem;
+		}
+	}
+}

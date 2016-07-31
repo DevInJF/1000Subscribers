@@ -1,0 +1,26 @@
+.cta {
+	border-top: 1px dotted $oil;
+	background: linear-gradient(to left, rgba($oil, 0.95) 10%, rgba($oil, 0.95) 90%), url('/assets/img/audience.jpg') no-repeat center fixed;
+	background-size: cover;
+	padding: 2rem 0;
+	color: $white;
+	form input {
+		height: 43px;
+		border: none;
+		border-right: 1px solid $smoke;
+	}
+	form.callout {
+		background-color: $oil;
+		padding-bottom: 0;
+		border: 1px solid rgba($white, 0.2);
+	}
+	button {
+		font-weight: $global-weight-bold;
+		background-color: $yellow;
+		color: $oil;
+		&:hover {
+			background-color: $smoke;
+			color: $oil;
+		}
+	}
+}

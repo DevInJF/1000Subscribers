@@ -1,0 +1,14 @@
+footer {
+	background-color: $oil;
+	color: $white;
+	padding: 1rem 0 0;
+	text-align: center;
+	border-top: 1px solid rgba($yellow, 0.2);
+	a {
+		color: $yellow;
+		font-weight: $global-weight-bold;
+		&:hover {
+			color: $white;
+		}
+	}
+}
