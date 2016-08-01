@@ -46,6 +46,8 @@ a {
       font-family: "ff-tisa-web-pro", serif;
       display: inline;
       padding: 0; }
+      .top-bar .alt-text a:hover {
+        color: #333333; }
   .top-bar .menu > li > a img {
     max-width: 2.5rem;
     max-height: 2.5rem;
@@ -69,12 +71,23 @@ a {
   background-size: cover;
   text-align: center;
   color: #fefefe; }
-  .hero p {
+  .hero h2.subheader {
     font-family: "ff-tisa-web-pro", serif;
     font-style: italic;
-    margin-bottom: 0; }
+    margin-bottom: 2rem;
+    color: #fefefe; }
   .hero h1 {
-    font-family: "proxima-nova", sans-serif; }
+    font-family: "proxima-nova", sans-serif;
+    border-bottom: 3px double rgba(254, 254, 254, 0.5);
+    padding-bottom: 1rem; }
+  .hero .button {
+    background-color: #FED766;
+    border: 3px solid #fefefe;
+    color: #333333;
+    font-family: "proxima-nova", sans-serif;
+    font-weight: 700; }
+    .hero .button:hover {
+      background-color: #333333; }
   @media screen and (min-width: 64em) {
     .hero h1 {
       font-size: 4rem;
@@ -88,13 +101,16 @@ a {
 
 .content {
   padding: 2rem 0; }
+  .content strong {
+    background-color: #FED766; }
 
 .gray {
   @extends .content;
   background-color: #EEEEEE; }
 
 footer {
-  background-color: #333333;
+  background: linear-gradient(to left, rgba(51, 51, 51, 0.95) 10%, rgba(51, 51, 51, 0.95) 90%), url("/assets/img/audience.jpg") no-repeat center fixed;
+  background-size: cover;
   color: #fefefe;
   padding: 1rem 0 0;
   text-align: center;
@@ -111,6 +127,8 @@ footer {
   background-size: cover;
   padding: 2rem 0;
   color: #fefefe; }
+  .cta h2 {
+    margin-bottom: 2rem; }
   .cta form input {
     height: 43px;
     border: none;

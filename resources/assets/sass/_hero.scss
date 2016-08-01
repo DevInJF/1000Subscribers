@@ -4,13 +4,26 @@
 	background-size: cover;
 	text-align: center;
 	color: $white;
-	p {
+	h2.subheader {
 		font-family: $body-font-serif;
 		font-style: italic;
-		margin-bottom: 0;
+		margin-bottom: 2rem;
+		color: $white;
 	}
 	h1 {
 		font-family: $body-font-sans-serif;
+		border-bottom: 3px double rgba($white, 0.5);
+		padding-bottom: 1rem;
+	}
+	.button {
+		background-color: $yellow;
+		border: 3px solid $white;
+		color: $oil;
+		font-family: $body-font-sans-serif;
+		font-weight: $global-weight-bold;
+		&:hover {
+			background-color: $oil;
+		}
 	}
 	@include breakpoint(large) {
 		h1 {

@@ -1,5 +1,6 @@
 footer {
-	background-color: $oil;
+	background: linear-gradient(to left, rgba($oil, 0.95) 10%, rgba($oil, 0.95) 90%), url('/assets/img/audience.jpg') no-repeat center fixed;
+	background-size: cover;
 	color: $white;
 	padding: 1rem 0 0;
 	text-align: center;
