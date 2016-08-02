@@ -13,7 +13,7 @@
 }
 
 .top-bar {
-	background: linear-gradient(to left, rgba($blue, 0.95) 10%, rgba($blue, 0.95) 90%), url('/assets/img/audience.jpg') no-repeat center fixed;
+	background: linear-gradient(to left, rgba($blue, 0.85) 10%, rgba($blue, 0.85) 90%), url('/assets/img/audience.jpg') no-repeat center fixed;
 	background-size: cover;
 	.top-bar-right {
 		margin-top: 15px;
@@ -44,10 +44,9 @@
 	.menu-text a {
 		color: $white;
 		font-size: rem-calc(36);
-		padding: rem-calc(10) rem-calc(15) rem-calc(8);
+		margin-right: 0.5rem;
 		&:hover {
-			background-color: $oil;
-			color: $white;
+			color: $yellow;
 		}
 		@include breakpoint (medium) {
 

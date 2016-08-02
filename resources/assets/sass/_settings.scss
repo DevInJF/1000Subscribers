@@ -272,7 +272,7 @@ $breadcrumbs-item-slash: true;
 $button-padding: 0.85em 1em;
 $button-margin: 0 0 $global-margin 0;
 $button-fill: solid;
-$button-background: $orange;
+$button-background: $blue;
 $button-background-hover: $black;
 $button-color: $white;
 $button-color-alt: $black;
@@ -594,7 +594,7 @@ $tooltip-radius: $global-radius;
 // 36. Top Bar
 // -----------
 
-$topbar-padding: 0;
+$topbar-padding: 0.5rem 1rem;
 $topbar-background: transparent;
 $topbar-submenu-background: $topbar-background;
 $topbar-title-spacing: 1rem;

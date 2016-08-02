@@ -15,6 +15,16 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::auth();
+Route::get('7-day-challenge', function () {
+	return view('challenge');
+});
 
-Route::get('/home', 'HomeController@index');
+Route::get('challenge-accepted', function () {
+	return view('accepted');
+});
+
+Route::get('webinar', function () {
+	return view('webinar');
+});
+
+Route::auth();
