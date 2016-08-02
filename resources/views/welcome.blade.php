@@ -27,8 +27,32 @@
 <section class="content">
     <div class="row">
         <div class="small-12 columns">
-            <h2>You will leave this challenge with...</h2>
-            <p>If you understand why you need an email list then skip this part. If you aren&rsquo;t sure about the value of an email list then this is the section for you.</p>
+            <h2>The first and last course you&rsquo;ll need to build an awesome list that makes money when you want it to</h2>
+            <p><em>1,000 Subscribers</em> is a different kind of course. It goes over great detail about the how of building your mailing list, but it also goes deep into the why.</p>
+            <p>Why would someone want to join your list? Why would someone want to eventually buy something from you?</p>
+            <p><strong>Building a mailing list should go far beyond putting 100 pop-ups on your site.</strong></p>
+            <p>Your goal is to create something of substance that has people sharing with their friends and family.</p>
+            <p><em>1,000 Subscribers</em> covers all of that, but before it comes out, you should take the 7-Day Challenge.</p>
+            <h3>The 7-Day List-Building Challenge</h3>
+            <p><strong>Is it possible to improve your site so that you get more subscribers instantly?</strong> Yes.</p>
+            <p><strong>Is it possible to start building systems that will help you discover the meaning of <em>passive income</em>?</strong> Yes.</p>
+            <p>This challenges provides you with all of the necessary tools and steps required to take your mailing list growth to new heights.</p>
+            <h3>You will leave this challenge with...</h3>
+            <ul>
+                <li><strong>A larger, healthier and happier list</strong></li>
+                <li><strong>A complete system that will help you see repeat success with each and every lead magnet you create</strong></li>
+                <li><strong>The skills to create autoresponders that do the selling for you</strong></li>
+            </ul>
+            <h3>Why do you need a list?</h3>
+            <p>You are a smart person that asks the right kinds of questions. If you want to run a successful online blog that helps you create the lifestyle of your dreams then your only option is to have a good mailing list.</p>
+            <p>You don&rsquo;t necessarily need a large one, but you do need a good one.</p>
+            <p>A good one is filled with people that are itching to buy your solutions.</p>
+            <p>They want to know about everything that you do so they can be sure they are the first in line to purchase.</p>
+            <p>People don&rsquo;t randomly buy services or infoproducts. <strong>They have to be educated first. They need to trust you first.</strong></p>
+            <p>This is all done through your list.</p>
+            <p><strong>No list, no education.</strong></p>
+            <p><strong>No list, no trust.</strong></p>
+            <p><strong>No list, no money.</strong></p>
         </div>
     </div>
 </section>
