@@ -27,4 +27,26 @@ Route::get('webinar', function () {
 	return view('webinar');
 });
 
+Route::get('challenge/optimizing-your-homepage', function () {
+	return view('challenge.day1');
+});
+Route::get('challenge/great-content', function () {
+	return view('challenge.day2');
+});
+Route::get('challenge/power-guest-posting', function () {
+	return view('challenge.day3');
+});
+Route::get('challenge/using-content-upgrades', function () {
+	return view('challenge.day4');
+});
+Route::get('challenge/boosting-conversions', function () {
+	return view('challenge.day5');
+});
+Route::get('challenge/power-giveaways', function () {
+	return view('challenge.day6');
+});
+Route::get('challenge/utilizing-webinars', function () {
+	return view('challenge.day7');
+});
+
 Route::auth();

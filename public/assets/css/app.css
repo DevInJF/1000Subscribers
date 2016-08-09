@@ -70,11 +70,14 @@ a {
   background-size: cover;
   text-align: center;
   color: #fefefe; }
-  .hero h2.subheader {
+  .hero h2.subheader, .hero h3.subheader {
     font-family: "ff-tisa-web-pro", serif;
     font-style: italic;
     margin-bottom: 2rem;
     color: #fefefe; }
+  .hero h3.subheader {
+    margin-bottom: 0;
+    font-weight: 700; }
   .hero h1 {
     font-family: "proxima-nova", sans-serif;
     border-bottom: 3px double rgba(254, 254, 254, 0.5);
@@ -110,6 +113,31 @@ a {
     text-align: center; }
   .content h2 {
     margin-bottom: 2rem; }
+
+.toc {
+  @extends .content;
+  background: linear-gradient(to left, rgba(51, 51, 51, 0.85) 10%, rgba(51, 51, 51, 0.85) 90%), url("/assets/img/audience.jpg") no-repeat center fixed;
+  background-size: cover; }
+  .toc ul.days {
+    margin-bottom: 0; }
+    .toc ul.days li {
+      background-color: #fefefe;
+      border-bottom: 1px solid #e6e6e6;
+      padding: 0.5rem; }
+      .toc ul.days li:last-child {
+        border-bottom: none; }
+      .toc ul.days li span {
+        font-family: "ff-tisa-web-pro", serif;
+        font-weight: 700; }
+      @media screen and (min-width: 64em) {
+        .toc ul.days li {
+          font-size: 1.5rem;
+          padding: 1rem; } }
+      .toc ul.days li.active {
+        background-color: #00B9BD;
+        color: #fefefe; }
+      .toc ul.days li.passive {
+        background-color: #EEEEEE; }
 
 .gray {
   @extends .content;
@@ -3099,7 +3127,7 @@ html.is-reveal-open body {
   display: none;
   z-index: 1006;
   padding: 1rem;
-  border: 1px solid #cacaca;
+  border: 3px solid #00B9BD;
   background-color: #fefefe;
   border-radius: 0;
   position: relative;

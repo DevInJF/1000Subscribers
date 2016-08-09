@@ -27,8 +27,7 @@
 <section class="content">
     <div class="row">
         <div class="small-12 columns">
-            <h2>The first and last course you&rsquo;ll need to build an awesome list that makes money when you want it to</h2>
-            <p><em>1,000 Subscribers</em> is a different kind of course. It goes over great detail about the how of building your mailing list, but it also goes deep into the why.</p>
+            <h2>How much can you grow your list in 7 days?</h2>
             <p>Why would someone want to join your list? Why would someone want to eventually buy something from you?</p>
             <p><strong>Building a mailing list should go far beyond putting 100 pop-ups on your site.</strong></p>
             <p>Your goal is to create something of substance that has people sharing with their friends and family.</p>
@@ -59,7 +58,7 @@
 <section class="cta">
     <div class="row">
         <div class="small-12 large-10 large-offset-1 end columns">
-            <h2 class="text-center">Enrollment opens soon. Until then, learn how to get your first 100 subscribers with the 7-day challenge.</h2>
+            <h2 class="text-center">Are you ready to take the 7-Day List-Building Challenge? Let&rsquo;s Go!</h2>
         </div>
         <div class="small-12 large-8 large-offset-2 end columns">
             <form id="ck_subscribe_form" class="ck_subscribe_form callout" action="https://app.convertkit.com/landing_pages/82628/subscribe" data-remote="true">
@@ -81,7 +80,7 @@
 </section>
 <div class="reveal" id="emailModal" data-reveal>
     <h3 class="text-center">Time to push yourself</h3>
-    <p class="text-center">In 7 days you&rsquo;ll learn all the tools needed to increase your subscriber count with relevant people.</p>
+    <p class="text-center">In 7 days you&rsquo;ll learn all the tools needed to increase your subscriber count with passionate people.</p>
   <script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
   <div class="ck_form_container ck_inline" data-ck-version="6">
     <div class="ck_form ck_naked">

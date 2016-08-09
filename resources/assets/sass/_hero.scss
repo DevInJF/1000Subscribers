@@ -4,11 +4,15 @@
 	background-size: cover;
 	text-align: center;
 	color: $white;
-	h2.subheader {
+	h2.subheader, h3.subheader {
 		font-family: $body-font-serif;
 		font-style: italic;
 		margin-bottom: 2rem;
 		color: $white;
+	}
+	h3.subheader {
+		margin-bottom: 0;
+		font-weight: $global-weight-bold;
 	}
 	h1 {
 		font-family: $body-font-sans-serif;

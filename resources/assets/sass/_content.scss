@@ -17,6 +17,38 @@
 	}
 }
 
+.toc {
+	@extends .content;
+	background: linear-gradient(to left, rgba($oil, 0.85) 10%, rgba($oil, 0.85) 90%), url('/assets/img/audience.jpg') no-repeat center fixed;
+	background-size: cover;
+	ul.days {
+		li {
+			background-color: $white;
+			border-bottom: 1px solid $light-gray;
+			&:last-child {
+				border-bottom: none;
+			};
+			padding: rem-calc(10);
+			span {
+				font-family: $body-font-serif;
+				font-weight: $global-weight-bold;
+			}
+			@include breakpoint(large) {
+				font-size: 1.5rem;
+				padding: 1rem;
+			}
+			&.active {
+				background-color: $blue;
+				color: $white;
+			}
+			&.passive {
+				background-color: $smoke;
+			}
+		}
+		margin-bottom: 0;
+	}
+}
+
 .gray {
 	@extends .content;
 	background-color: $smoke;
