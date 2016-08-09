@@ -12,7 +12,7 @@
 <section class="content gray">
     <div class="row">
         <div class="small-12 columns">
-            <h2 class="text-center">But before the challenge can&rsquo;t start until...</h2>
+            <h2 class="text-center">But the challenge can&rsquo;t start until...</h2>
         </div>
         <div class="small-12 large-6 large-offset-3 columns end">
             <p>You need to check your inbox, open up the email, and confirm your email address.</p>
