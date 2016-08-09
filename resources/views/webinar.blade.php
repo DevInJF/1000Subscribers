@@ -22,28 +22,6 @@
         </div>
     </div>
 </section>
-<section class="cta">
-    <div class="row">
-        <div class="small-12 large-10 large-offset-1 end columns">
-            <h2 class="text-center">Enrollment opens soon. Until then, learn how to get your first 100 subscribers with the 7-day challenge.</h2>
-        </div>
-        <div class="small-12 large-8 large-offset-2 end columns">
-            <form action="" class="callout">
-                <div class="row collapse">
-                    <div class="small-12 large-4 columns">
-                        <input class="text-center" placeholder="First Name" type="text" name="first_name" id="first_name" required>
-                    </div>
-                    <div class="small-12 large-4 columns">
-                        <input class="text-center" placeholder="Email" type="email" name="email" id="email" required>
-                    </div>
-                    <div class="small-12 large-4 columns">
-                        <button type="submit" class="button small expanded">Start the Challenge</button>
-                    </div>
-                </div>
-            </form>
-        </div>
-    </div>
-</section>
 <div class="reveal" id="exampleModal1" data-reveal>
   <h1>Awesome. I Have It.</h1>
   <p class="lead">Your couch. It is mine.</p>

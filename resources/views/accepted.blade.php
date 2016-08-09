@@ -5,42 +5,21 @@
     <div class="row">
         <div class="small-12 columns">
             <h1>Challenge Accepted</h1>
-            <h2 class="subheader">Learn how to build an audience and get it done while making money along the way.</h2>
-            <p><a href="" class="button large">Start Your Free 7-Day Challenge</a></p>
+            <h2 class="subheader">You know what you want and you&rsquo;re willing to go after it</h2>
         </div>
     </div>
 </section>
 <section class="content gray">
     <div class="row">
         <div class="small-12 columns">
-            <h2 class="text-center">What would happen if you started today?</h2>
+            <h2 class="text-center">But before the challenge can&rsquo;t start until...</h2>
         </div>
         <div class="small-12 large-6 large-offset-3 columns end">
-            <p>Imagine if you gave yourself permission to stop dreaming about making money from your blog and actually taking that step.</p>
-            <p><strong>If you start today, then by {{ date('F jS', strtotime("+90 days")) }} you will have 1,000 new subscribers on your mailing list and more than $1,000 in additional revenue that you didn&rsquo;t have before.</strong></p>
-            <p>Each day you wait pushes that success date further back.</p>
-        </div>
-    </div>
-</section>
-<section class="cta">
-    <div class="row">
-        <div class="small-12 large-10 large-offset-1 end columns">
-            <h2 class="text-center">Enrollment opens soon. Until then, learn how to get your first 100 subscribers with the 7-day challenge.</h2>
-        </div>
-        <div class="small-12 large-8 large-offset-2 end columns">
-            <form action="" class="callout">
-                <div class="row collapse">
-                    <div class="small-12 large-4 columns">
-                        <input class="text-center" placeholder="First Name" type="text" name="first_name" id="first_name" required>
-                    </div>
-                    <div class="small-12 large-4 columns">
-                        <input class="text-center" placeholder="Email" type="email" name="email" id="email" required>
-                    </div>
-                    <div class="small-12 large-4 columns">
-                        <button type="submit" class="button small expanded">Start the Challenge</button>
-                    </div>
-                </div>
-            </form>
+            <p>You need to check your inbox, open up the email, and confirm your email address.</p>
+            <div class="image" style="margin-bottom: 1rem;">
+                <img src="https://s3-us-west-2.amazonaws.com/obstacleco-assets/wp-content/uploads/2016/08/05165116/inbox2.png">
+            </div>
+            <p>Once you do that, you are good to go!</p>
         </div>
     </div>
 </section>

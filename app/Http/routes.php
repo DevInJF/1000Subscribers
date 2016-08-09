@@ -49,4 +49,12 @@ Route::get('challenge/utilizing-webinars', function () {
 	return view('challenge.day7');
 });
 
+Route::get('awesome', function () {
+	return view('awesome');
+});
+
+Route::get('preorder', function () {
+	return view('preorder');
+});
+
 Route::auth();
