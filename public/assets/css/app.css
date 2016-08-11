@@ -118,10 +118,15 @@ a {
     .content .image img {
       border: 3px solid #fefefe; }
 
+.article h2 {
+  margin-bottom: 1rem; }
+
 .toc {
   @extends .content;
   background: linear-gradient(to left, rgba(51, 51, 51, 0.85) 10%, rgba(51, 51, 51, 0.85) 90%), url("/assets/img/audience.jpg") no-repeat center fixed;
   background-size: cover; }
+  .toc h2 {
+    color: #fefefe; }
   .toc ul.days {
     margin-bottom: 0; }
     .toc ul.days li {
