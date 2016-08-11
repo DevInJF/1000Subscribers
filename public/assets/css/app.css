@@ -2,6 +2,9 @@
 a {
   transition: 0.2s linear all; }
 
+h2, h3 {
+  font-style: italic !important; }
+
 @media screen and (max-width: 39.9375em) {
   .no-js .top-bar {
     display: none; } }
