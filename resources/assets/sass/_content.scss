@@ -63,6 +63,6 @@
 }
 
 .gray {
-	@extends .content;
+	@extend .content;
 	background-color: $smoke;
 }
