@@ -3,10 +3,18 @@
 	strong {
 		background-color: $yellow;
 	}
-	p, li {
+	p, li, .callout {
 		max-width: 35rem;
 		margin-left: auto;
 		margin-right: auto;
+	}
+
+	.callout {
+		background-color: $smoke;
+		.button {
+			margin-bottom: 0;
+			font-weight: $global-weight-bold;
+		}
 	}
 
 	h2, h3, h4 {
@@ -17,8 +25,10 @@
 	}
 	.image {
 		margin-bottom: 2rem;
+		text-align: center;
 		img {
-			border: 3px solid $white;
+			padding: rem-calc(5);
+			border: 3px solid $smoke;
 		}
 	}
 }

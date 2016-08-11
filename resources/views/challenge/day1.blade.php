@@ -13,11 +13,15 @@
 <section class="content article">
 	<div class="row">
 		<div class="small-12 columns">
+			<div class="callout">
+				<p>Did you end up here because someone was kind enough to link this page? That&rsquo;s cool, but you&rsquo;ll want to sign up yourself so you can experience all 7 days of this list-building challenge.</p>
+				<p><a data-open="emailModal" class="button expanded">Start Your Free 7-Day Challenge</a></p>
+			</div>
 			<p>Here is the scenario.</p>
-			<p>You have a big meeting with a famous actor. What&rsquo;s this meeting about? It doesn&rsquo;t matter, just know that it is big.</p>
+			<p>You have a big meeting with a famous actor.</p>
 			<p>The goal is to get the famous actor to donate to your world famous charity.</p>
 			<p>Yes, you are big time.</p>
-			<p>So how do you go about ensuring that you give yourself the best chance of getting that donation?</p>
+			<p>So how do you go about ensuring that you give yourself the best chance of getting a donation?</p>
 			<ol>
 				<li>Do you ask them over and order takeout?</li>
 				<li>Do you take them out to an extravagant dinner?</li>
@@ -25,15 +29,17 @@
 			</ol>
 			<p>It really depends on the actor&rsquo;s personality, but most of you probably went with #3 and it&rsquo;s a good choice.</p>
 			<p>Why? Because it sets the stage for things to come and gets the person in the right mindset.</p>
-			<p>This is what you blog&rsquo;s homepage does.</p>
+			<p>This is what your blog&rsquo;s homepage does.</p>
+			<p>It sets the tone and gets the reader into the right mindset.</p>
 			<h2>Your #1 Page</h2>
 			<p>When taking a look at your analytics you will always find that your homepage is one of your most popular pages. It makes sense because people like to click on that big logo at the top of the page to get taken back to the beginning.</p>
-			<p>Because your homepage is so popular, it is one of the best opportunities you have to gain subscribers and yet so many people let it go to waste.</p>
+			<p><strong>Because your homepage is so popular, it is one of the best opportunities you have to gain subscribers</strong> and yet so many people let it go to waste.</p>
 			<p>Instead of treating your homepage like a landing page, you probably treat it like a blog listing page. The logic being that when people come to your homepage they want to see the rest of your blog posts and you are right, they do.</p>
 			<p>But they can see blog posts on almost every other page on your site. Let your homepage take on a different job.</p>
-			<p>When people visit your homepage, this is your chance to let them know what your site is about to also entice them with an offer they don&rsquo;t want to refuse.</p>
+			<p>When people visit your homepage, this is your chance to let them know what your site is about to also entice them with an offer they would be crazy to refuse.</p>
 			<p>Instead of talking about yourself, talk about the benefits that a person will get from being on your site.</p>
 			<p>I call this your <em>promise to your audience</em>.</p>
+			<p><em>If you&rsquo;re curious about learning more on your promise and your Why then check out the free <a href="https://obstacle.co/cultivate-tribe/">Cultivating Your Tribe</a> email course.</em></p>
 			<h2>The Hero Section</h2>
 			<p>Let&rsquo;s take a look at how some popular bloggers handle their promises to their audiences.</p>
 			<h3><a href="http://byregina.com">By Regina</a></h3>
@@ -63,8 +69,55 @@
 				<li>Join her Facebook community</li>
 			</ol>
 			<p>These are all paths that help her business out, while also providing some type of value to the reader.</p>
-			<p>Look at the logic of having a section like this right after the hero. A person see the hero offer, but decides it might not be for them or maybe they want to browse more. Right away they are presented with 3 more offers (paths) that they can make a decision on.</p>
+			<p>Look at the logic of having a section like this right after the hero. A person sees the hero offer, but decides it might not be for them or maybe they want to browse more.</p>
+			<p>Right away they are presented with 3 more offers (paths) that they can make a decision about.</p>
 			<p>Overall, you are showing 4 different options to your reader to get them to take a specific action and none of this looks sleazy in any way.</p>
+			<p>Notice that you are not being pushy. You are simply presenting value to your audience and making sure they know about it. Doing anything less would be an injustice to your hard work and your audience.</p>
+			<h2>How Many Exits?</h2>
+			<p>If the #1 goal of your homepage is to convert readers into subscribers, what kind of things can you do to sabotage that?</p>
+			<p>Well, first and foremost, you could present them with options that don&rsquo;t lead to them becoming subscribers. Usually this means taking them to other pages or posts on your site.</p>
+			<p>However, this isn&rsquo;t that big of a deal as we will see on Day 4 as long as you are using other methods to convert them.</p>
+			<p>What about ads or affiliate offers that might take them to an external site? What are the chances of them coming back?</p>
+			<p>Could you imagine owning a sushi restaurant where you had a really nice lobby and before you were able to sit anyone down, they went off to the ice cream shop because you told them how nice it was?</p>
+			<p>It sounds silly, but this is what you are doing when you give people an opportunity to leave your site.</p>
+			<p>They leave.</p>
+			<p><strong>Your homepage should act as a gateway to everything else you are offering.</strong> It shouldn&rsquo;t contain exit doors. If people want to leave they can click the back button. They don&rsquo;t need your assistance.</p>
+			<p>You don&rsquo;t want to trap your visitors on your homepage, but you also don&rsquo;t want to show them the door.</p>
+			<h2>Can I Scan That for You?</h2>
+			<p><strong>It is important that the design of your homepage is scannable.</strong> What this means is that when someone comes to your site, they like to do a quick scroll of everything to assess the situation.</p>
+			<p>What you want to make sure of is that your homepage&rsquo;s design has distinct sections to it that let the reader know they need to stop and read what is going on.</p>
+			<p>Let&rsquo;s take a look at the <a href="https://obstacle.co">Obstacle.co homepage</a>.</p>
+			<div class="image"><img src="https://s3-us-west-2.amazonaws.com/obstacleco-assets/wp-content/uploads/2016/08/11054343/obstaclecohome.jpg"></div>
+			<p>As you can see the homepage is broken up into 5 distinct sections.</p> 
+			<p>The first three sections have calls to action in the hopes of converting visitors into suscribers. The remaining two sections are there to reinforce the purpose of the site and to add authority.</p>
+			<p>Even if you quickly scan the page your eyes can&rsquo;t help but pause on certain section since they break the flow of the design.</p>
+			<p>In the case of Obstacle.co you don&rsquo;t need to make the background of each section as distinctly unique as I did. However, you do wnat to ensure it&rsquo;s easy to know when a new section appears.</p>
+			<h2>Nothing Is Too Obvious</h2>
+			<p>You&rsquo;re sitting at your desk in your 4th period math class right behind your crush. Every day you two talk and in your mind you&rsquo;ve drop obvious hints that you like them, but they don&rsquo;t seem to respond.</p>
+			<p>Weeks go by until finally your crush starts dating someone else (yes, in 4th grade). You&rsquo;re heartbroken and you ask your crush why they didn&rsquo;t choose you.</p>
+			<p>Their answer is simple.</p>
+			<p>They didn&rsquo;t know you liked them.</p>
+			<p>...</p>
+			<p>People can&rsquo;t read your mind. If you want them to sign up for your mailing list, then you need to make it obvious. Don&rsquo;t try to be subtle with your forms and buttons. Make them plainly obvious.</p>
+			<div class="image"><a href="http://smartblogger.com"><img src="https://s3-us-west-2.amazonaws.com/obstacleco-assets/wp-content/uploads/2016/08/11055526/smartblogger.png"></a></div>
+			<p>This is <a href="http://smartblogger.com">SmartBlogger</a> by Jon Morrow. As you can see they make their incentive offer obvious. The button is orange and there is even an arrow pointing to the form.</p>
+			<p>There is no way you could miss this offer.</p>
+			<p>You don&rsquo;t need to be obnoxious with your design, but you do need to be obvious.</p>
+			<p>There is no reason to be shy if you are offering huge value to your audience.</p>
+			<h2>The Honey Trap</h2>
+			<p>Your homepage is the most obvious honey trap you have on your site. Over time you will create specific landing pages for different offers, but your first landing page will always be your homepage.</p>
+			<p>It&rsquo;s one of the greatest opportunities you have to grab subscribers so don&rsquo;t waste it.</p>
+			<h2>Today&rsquo;s Tasks</h2>
+			<ul>
+				<li>Put an offer front and center for your audience on the homepage. Even if this is just for them to sign up to receive updates.</li>
+				<li>Look at all of the different exit points (links to go to 3rd party sites) on your homepage and get rid of them.</li>
+				<li>Take a screenshot of your homepage (I use <em>Full Page Screen Capture</em> Chrome extension) and check to see how scannable your page is</li>
+				<li>Make sure all of your CTAs (call-to-action) are obvious. A form should look like a form and a button should look like a button.</li>
+			</ul>
+			<div class="callout">
+				<p>Did you end up here because someone was kind enough to link this page? That&rsquo;s cool, but you&rsquo;ll want to sign up yourself so you can experience all 7 days of this list-building challenge.</p>
+				<p><a data-open="emailModal" class="button expanded">Start Your Free 7-Day Challenge</a></p>
+			</div>
 		</div>
 	</div>
 </section>
@@ -84,4 +137,5 @@
 		</div>
 	</div>
 </section>
+@include('modal')
 @endsection
