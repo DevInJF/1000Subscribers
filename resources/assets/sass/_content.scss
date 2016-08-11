@@ -28,7 +28,7 @@
 }
 
 .toc {
-	@extends .content;
+	@extend .content;
 	background: linear-gradient(to left, rgba($oil, 0.85) 10%, rgba($oil, 0.85) 90%), url('/assets/img/audience.jpg') no-repeat center fixed;
 	background-size: cover;
 	h2 {
