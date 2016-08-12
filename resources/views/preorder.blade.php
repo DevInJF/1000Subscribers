@@ -20,12 +20,14 @@
 <section class="cta">
     <div class="row">
       <div class="small-12 columns">
-        <h2 class="text-center">Jack of all trades, master of everything</h2>
+        <h2 class="text-center">The money is in your mailing list</h2>
       </div>
       <div class="small-12 large-6 large-offset-3 columns end">
         <div class="callout">
-          <p>Building an awesome email list can be done a number of different ways. The more ways you know, the faster your list will grow.</p>
-          <p>In this course package you will gain access to 3 awesome Obstacle.co courses when they are released.</p>
+          <p>The bigger and better your mailing list, the bigger and better the opportunities are to make money.</p>
+          <p>Is there any greater feeling than having thousands of people opening up every email you send because they love what you are doing?</p>
+          <p>But how do you build up your email list? It takes a little bit of time and a lot of effort.</p>
+          <p>In this course package you will learn everything that you need to know to build a profitable mailing list that will help you quit your job, spend more time with your family, and wake up with a lot less stress.</p>
         </div>
       </div>
     </div>
@@ -36,7 +38,7 @@
         <h2 class="text-center">1. 1000 Subscribers ($447 value)</h2>
       </div>
       <div class="small-12 large-6 columns">
-        <p>A premier course on list-building. It takes everything that you will learn in the <em>7-Day List-Building Challenge</em> and digs even deeper.</p>
+        <p>The premier course on list-building. It takes everything that you will learn in the <em>7-Day List-Building Challenge</em> and magnifies it 1000x.</p>
         <p>Learn how to:</p>
         <ul>
           <li>Optimize your homepage for the highest conversions</li>
@@ -44,10 +46,13 @@
           <li>Create email courses to boost your conversion rate 110%</li>
           <li>How to use content upgrades to double your list every 3 months</li>
           <li>Find your most popular blog posts and redo them to help your site grow even more</li>
-          <li>Setting up a proper email sequence to ensure your subscribers stick around</li>
+          <li>Set up a proper email sequence to ensure your subscribers stick around</li>
+          <li>Use ConvertKit to boost your numbers even higher</li>
           <li>And a lot more...</li>
         </ul>
-        <p>This course teaches everything that I know about list-building. <strong>These techniques have helped me get thousands of subscribers for each and every one of my online businesses.</strong></p>
+        <p>This course teaches you everything that I know about list-building. <strong>These techniques have helped me get thousands of subscribers for each and every one of my online businesses within a couple of months.</strong></p>
+        <p>This is an interactive, 6-week course that provides you with all of the actionable steps you need to know to get your first 1,000 subscribers and make your first $1,000.</p>
+        <p><strong><em>Launches August 25th.</em></strong></p>
       </div>
       <div class="small-12 large-6 columns">
         <div class="image"><img src="/assets/img/1000subscribers-nourl.png" data-pin-nopin="true"></div>
@@ -69,17 +74,22 @@
           <li>Figure out what boards you should be creating</li>
           <li>Make the perfect Pinterest pin</li>
           <li>Use Tailwind and BoardBooster to boost your traffic like crazy</li>
+          <li>Create Pinterest image templates to save you hours of time each and every month</li>
+          <li>Read Pinterest analytics to help you make the right adjustments to boost your profile more</li>
         </ul>
+        <p><strong><em>Launches August 24th.</em></strong></p>
       </div>
       <div class="small-12 columns">
         <h2 class="text-center">3. Understanding Google Analytics ($97)</h2>
       </div>
       <div class="small-12 large-6 columns">
-        <p>It&rsquo;s impossible to build your list effectively if you don&rsquo;t know where your traffic coming from and how well it is converting.</p>
+        <p>It&rsquo;s impossible to build your list effectively if you don&rsquo;t know where your traffic is coming from and how well it is converting.</p>
         <p>Google Analytics is the most popular analytics tool on the planet because it is free and powerful.</p>
         <p>It can also be a bit complicated to understand.</p>
         <p>In this course you will learn how to navigate through Google Analytics better than your own house.</p>
         <p>You&rsquo;ll finally be able to set up goals and events to continually monitor your blog and improve it.</p>
+        <p>The most successful bloggers are able to study their analytics and make adjustments to improve their results. Stop wandering around blind trying to figure out how to grow your blog and let the numbers help guide you.</p>
+        <p><strong><em>Launches September 9th.</em></strong></p>
       </div>
       <div class="small-12 large-6 columns">
         <div class="image"><img src="/assets/img/masteringanalytics-nourl.png" data-pin-nopin="true"></div>
@@ -96,10 +106,13 @@
         <p>My wife hates when I do offers like this because she knows that I can sell each of these courses for their full value on their own and even raise the prices if I wanted to.</p>
         <p>Let&rsquo;s be honest though. <strong>Not everyone has $700 laying around to spend on some courses.</strong></p> 
         <p>That&rsquo;s why you are being given this shot at purchasing all 3 of these awesome courses for just $147.</p>
-        <p>However, I am not going to keep this open forever. As you go through the <em>7-Day List-Building Challenge</em>, I will let you know more about the <em>1,000 Subscribers</em> course and you will see each time the price will go up closer to its $447 pricepoint.</p>
-        <p><strong>Only 100 people can take advantage of this offer.</strong> Most people will skip this page or not read down this far. You have so this is your chance.</p>
-        <p>No pressure, but once 100 people scoop up this package it is gone forever.</p>
-        <p>You can invest $147 no in making sure you build the business that you crave or you can invest $691 later to do the same.</p>
+        <p>However, I am not going to keep this open forever. As you go through the <em>7-Day List-Building Challenge</em>, I will let you know more about the <em>1,000 Subscribers</em> course and you will see each time the price will go up closer to its $447 launch price.</p>
+        <p><strong>This offer is for 3 days only.</strong></p>
+        <p>What happens when the 3 days are up? The package will still be around, but it will shoot up another $100.</p>
+        <p>You can invest $147 now in making sure you build the business that you crave or you can invest $691 later to do the same.</p>
+        <h3 class="text-center">60-Day Money Back Guarantee</h3>
+        <p>Every single course has a 60-Day Money Back Guarantee once you start. If you feel you aren&rsquo;t getting the value you thought from a course, then simply ask for your money back and I will refund you without hesitation.</p>
+        <p>I don&rsquo;t think that will happen though because you will be too busy checking your subscriber numbers.</p>
       </div> 
   </div>
 </section>
