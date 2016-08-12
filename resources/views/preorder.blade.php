@@ -10,10 +10,12 @@
             <h1>The Ultimate List-Building Course Package</h1>
             <h2 class="subheader">Learn how to grow your email list in this fun with over 30 training videos</h2>
             <p><a data-dpd-type="button" data-variant="price-right" data-text="Pre-Order Now" data-button-size="dpd-large" data-bg-color="FED766" data-bg-color-hover="FED766" data-text-color="333333" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://obstacle.dpdcart.com/cart/buy?product_id=136468&amp;product_price_id=145693&amp;gateway=paypal">Pre-Order Now</a><script src="https://obstacle.dpdcart.com/dpd.js"></script></p>
-            <h3 class="subheader">Offer ends in...</h3>
-            <div class="ddio_countdown_wrap"></div>
         </div>
     </div>
+</section>
+<section class="cta">
+  <h3 class="subheader text-center">Offer ends in...</h3>
+  <div class="ddio_countdown_wrap"></div>
 </section>
 <section class="cta">
     <div class="row">
