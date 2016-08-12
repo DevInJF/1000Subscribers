@@ -108,7 +108,7 @@ h2, h3 {
   padding: 2rem 0; }
   .content strong, .toc strong, .gray strong {
     background-color: #FED766; }
-  .content p, .toc p, .gray p, .content li, .toc li, .gray li, .content .callout, .toc .callout, .gray .callout {
+  .content p, .toc p, .gray p, .content li, .toc li, .gray li, .content .callout, .toc .callout, .gray .callout, .content blockquote, .toc blockquote, .gray blockquote {
     max-width: 35rem;
     margin-left: auto;
     margin-right: auto; }
