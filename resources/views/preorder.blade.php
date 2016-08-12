@@ -13,8 +13,8 @@
         </div>
     </div>
 </section>
-<section class="cta">
-  <h3 class="subheader text-center">Offer ends in...</h3>
+<section class="content">
+  <h3 class="text-center">Offer ends in...</h3>
   <div class="ddio_countdown_wrap"></div>
 </section>
 <section class="cta">
