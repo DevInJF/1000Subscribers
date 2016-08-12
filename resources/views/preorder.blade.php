@@ -119,10 +119,14 @@
 <section class="cta">
   <div class="row">
     <div class="small-12 columns">
-      <h2 class="text-center"><strike>100</strike> 97 Packages Left</h2>
+      <h2 class="text-center">Build the audience your blog deserves</h2>
       <p class="text-center"><a data-dpd-type="button" data-variant="price-right" data-text="Pre-Order Now" data-button-size="dpd-large" data-bg-color="FED766" data-bg-color-hover="FED766" data-text-color="333333" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://obstacle.dpdcart.com/cart/buy?product_id=136468&amp;product_price_id=145693&amp;gateway=paypal">Pre-Order Now</a><script src="https://obstacle.dpdcart.com/dpd.js"></script></p>
     </div>
   </div>
+</section>
+<section class="content">
+  <h3 class="text-center">Offer ends in...</h3>
+  <div class="ddio_countdown_wrap"></div>
 </section>
 @endsection
 
