@@ -1,5 +1,8 @@
 @extends('layouts.app')
 
+@section('headScripts')
+@endsection
+
 @section('content')
 <section class="hero">
     <div class="row">
@@ -7,6 +10,7 @@
             <h1>The Ultimate List-Building Course Package</h1>
             <h2 class="subheader">Learn how to grow your email list in this fun with over 30 training videos</h2>
             <p><a data-dpd-type="button" data-variant="price-right" data-text="Pre-Order Now" data-button-size="dpd-large" data-bg-color="FED766" data-bg-color-hover="FED766" data-text-color="333333" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://obstacle.dpdcart.com/cart/buy?product_id=136468&amp;product_price_id=145693&amp;gateway=paypal">Pre-Order Now</a><script src="https://obstacle.dpdcart.com/dpd.js"></script></p>
+            <div class="ddio_countdown_wrap"></div>
         </div>
     </div>
 </section>
@@ -117,4 +121,8 @@
     </div>
   </div>
 </section>
+@endsection
+
+@section('footScripts')
+<!-- Deadline Funnel --><script type="text/javascript" data-cfasync="false">function base64_encode(e){var r,t,c,a,h,n,o,A,i = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",d=0,l=0,s="",u=[];if(!e)return e;do r=e.charCodeAt(d++),t=e.charCodeAt(d++),c=e.charCodeAt(d++),A=r<<16|t<<8|c,a=A>>18&63,h=A>>12&63,n=A>>6&63,o=63&A,u[l++]=i.charAt(a)+i.charAt(h)+i.charAt(n)+i.charAt(o);while(d<e.length);s=u.join("");var C=e.length%3;var decoded = (C?s.slice(0,C-3):s)+"===".slice(C||3);decoded = decoded.replace("+", "-");decoded = decoded.replace("/", "_");return decoded;} var url = base64_encode(location.href);var parentUrl = (document.referrer) ? ('/' + base64_encode(document.referrer)) : '';(function() {var s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.setAttribute("data-scriptid", "dfunifiedcode");s.src ="https://deadlinefunnel.com/unified/eyJpdiI6ImdsQk1SQmJvYVwvSWF3RFwvVDVzaXFVUT09IiwidmFsdWUiOiI1RW0rUmV0dmJKMng1Z0Jzclp6a3FRPT0iLCJtYWMiOiJhMjNjNzBiMTM5NjZkYTczZGRlMDMyZGNiMjNiZmI3YTVlYmExNjk2NzE0OTRlYTViNjgxNTI1YjdjNWU1Zjk5In0=/"+url+parentUrl;var s2 = document.getElementsByTagName('script')[0];s2.parentNode.insertBefore(s, s2);})();</script><!-- End Deadline Funnel -->
 @endsection
