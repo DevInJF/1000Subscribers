@@ -35,7 +35,7 @@
 <section class="content gray">
   <div class="row">
       <div class="small-12 columns">
-        <h2 class="text-center">1. 1000 Subscribers ($447 value)</h2>
+        <h2 class="text-center">1000 Subscribers ($447 value)</h2>
       </div>
       <div class="small-12 large-6 columns">
         <p>The premier course on list-building. It takes everything that you will learn in the <em>7-Day List-Building Challenge</em> and magnifies it 1000x.</p>
@@ -58,7 +58,7 @@
         <div class="image"><img src="/assets/img/1000subscribers-nourl.png" data-pin-nopin="true"></div>
       </div>
        <div class="small-12 columns">
-        <h2 class="text-center">2. Powerful Pinterest Profiting ($147)</h2>
+        <h2 class="text-center">Bonus #1: Powerful Pinterest Profiting ($147)</h2>
       </div>
       <div class="small-12 large-6 columns">
         <div class="image"><img src="/assets/img/powerfulpinterest-nourl.png" data-pin-nopin="true"></div>
@@ -80,7 +80,7 @@
         <p><strong><em>Launches August 24th.</em></strong></p>
       </div>
       <div class="small-12 columns">
-        <h2 class="text-center">3. Understanding Google Analytics ($97)</h2>
+        <h2 class="text-center">Bonus #2: Understanding Google Analytics ($97)</h2>
       </div>
       <div class="small-12 large-6 columns">
         <p>It&rsquo;s impossible to build your list effectively if you don&rsquo;t know where your traffic is coming from and how well it is converting.</p>
