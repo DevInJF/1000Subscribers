@@ -49,6 +49,10 @@ Route::get('challenge/utilizing-webinars', function () {
 	return view('challenge.day7');
 });
 
+Route::get('pinterest', function () {
+	return view('pinterest');
+});
+
 Route::get('awesome', function () {
 	return view('awesome');
 });

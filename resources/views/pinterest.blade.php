@@ -1,0 +1,1 @@
+<img src="/assets/img/7-day-challenge-red.png">
