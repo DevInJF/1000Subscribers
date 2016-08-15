@@ -61,4 +61,8 @@ Route::get('preorder', function () {
 	return view('preorder');
 });
 
+Route::get('order', function () {
+	return view('order');
+});
+
 Route::auth();
