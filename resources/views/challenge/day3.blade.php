@@ -4,7 +4,7 @@
 <section class="hero">
     <div class="row">
         <div class="small-12 columns">
-        	<h3 class="subheader">List-Building Challenge Day 1:</h3>
+        	<h3 class="subheader">List-Building Challenge Day 3:</h3>
             <h1>The Art of Syndication and Promotion</h1>
             <h2 class="subheader">Use Someone Else&rsquo;s Audience to Build Yours</h2>
         </div>
@@ -78,6 +78,7 @@
 				<li>Check to see if they have a page dedicated to guest-posting. If not see what social media platforms the person hangs out at and try to establish a relationship. This may take longer than one day.</li>
 				<li>Think of 3 blog post titles that you could write for them and those will be in your pitch.</li>
 			</ul>
+			<p>If you have a site that would benefit the Obstacle.co audience and have some ideas for guest posts then send them my way. I&rsquo;m always open to great content.</p>
 		</div>
 	</div>
 </section>
