@@ -80,6 +80,11 @@
 			<p>Use the rule of reciprocity to get their email address by giving them something great in return.</p>
 			<p>The increase in subscribers you&rsquo;ll get with content upgrades can not be understated.</p>
 			<p>I don&rsquo;t launch a site until I have one or two content upgrades ready to go out the door.</p>
+			<h2>Today&rsquo;s Tasks</h2>
+			<ul>
+				<li>If you already have a blog, go through your most popular posts and try to think of some awesome content upgrades you can offer for them.</li>
+				<li>If you don&rsquo;t have a blog yet, then think about a mini-email course or ebook that you can create over a weekend.</li>
+			</ul>
 			<div class="callout">
 				<p>Did you end up here because someone was kind enough to link this page? That&rsquo;s cool, but you&rsquo;ll want to sign up yourself so you can experience all 7 days of this list-building challenge.</p>
 				<p><a data-open="emailModal" class="button expanded">Start Your Free 7-Day Challenge</a></p>
