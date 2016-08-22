@@ -19,6 +19,9 @@
 
 	h2, h3, h4 {
 		text-align: center;
+		max-width: 40rem;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	h2 {
 		margin-bottom: 2rem;
@@ -28,8 +31,12 @@
 		text-align: center;
 		img {
 			padding: rem-calc(5);
-			border: 3px solid $smoke;
+			border: 1px solid $smoke;
 		}
+	}
+
+	.jumbo {
+		max-width: 100%;
 	}
 }
 
@@ -75,4 +82,38 @@
 .gray {
 	@extend .content;
 	background-color: $smoke;
+	div.image img {
+		border-color: $light-gray;
+		background-color: $white;
+	}
+}
+
+.blue {
+	@extend .content;
+	background-color: $bluest;
+	color: $white;
+}
+
+.red {
+	@extend .content;
+	background-color: $red;
+}
+
+.oil {
+	@extend .content;
+	background: linear-gradient(to left, rgba($oil, 0.85) 10%, rgba($oil, 0.85) 90%), url('/assets/img/audience.jpg') no-repeat center fixed;
+	background-size: cover;
+	color: $white;
+	h2 em {
+		color: $yellow;
+	}
+}
+
+.benefits-box {
+	background-color: $white;
+	padding: 1rem;
+	color: $oil;
+	p {
+		font-size: rem-calc(16);
+	}
 }

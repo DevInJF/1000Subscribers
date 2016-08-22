@@ -65,4 +65,8 @@ Route::get('order', function () {
 	return view('order');
 });
 
+Route::get('course', function () {
+	return view('course');
+});
+
 Route::auth();

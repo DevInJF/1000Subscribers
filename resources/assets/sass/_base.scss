@@ -2,6 +2,22 @@ a {
 	transition: 0.2s linear all;
 }
 
-h2, h3 {
-	font-style: italic !important;
+.sans-serif {
+	font-family: $body-font-family;
+	font-style: normal;
+}
+
+.jumbo {
+	text-transform: uppercase;
+	@include breakpoint(large) {
+		font-size: 4rem;
+		max-width: 100%;
+		line-height: 1.1;
+	}
+}
+
+.yellow {
+	background-color: $yellow;
+	color: $oil;
+	display: inline-block;
 }
