@@ -45,6 +45,41 @@
 			</ol>
 			<p>My personal favorite is the email course content upgrade because it provides further continuous value to your audience and also acts as a funnel.</p>
 			<p>But as I said before, there is no perfect content upgrade. If it makes sense to use a checklist as a content upgrade for a specific post then use that. Don&rsquo;t try to force a content upgrade just because you like the idea of it.</p>
+			<h2>Location, Location, Location</h2>
+			<p>So you have a great content upgrade. Congrats. Where do you put it?</p>
+			<p>You have a number of options and bloggers always seem to have their own opinions on what works best.</p>
+			<p>Let&rsquo;s explore some of the different location options you have at your disposal.</p>
+			<h3>The Hero</h3>
+			<p>The Hero Section of your site is the big top area. Not every theme/design has this, but it&rsquo;s a pretty common feature today.</p>
+			<p>Scroll to the top of this page and you&rsquo;ll see the hero section right under the navigation.</p>
+			<p>It&rsquo;s the one section of a design that nobody skips because it&rsquo;s right in front of your face. This makes it prime real estate to include an offer.</p>
+			<p>Check out how <a href="http://byregina.com">Regina</a> uses the hero section to great effect.</p>
+			<div class="image"><a href="http://byregina.com"><img src="https://s3-us-west-2.amazonaws.com/obstacleco-assets/wp-content/uploads/2016/07/03232028/byregina.com_.jpg"></a></div>
+			<p>That appears on every single page so it will never be missed by anyone. It is in your face, but it isn&rsquo;t bothersome.</p>
+			<h3>After the Blog Post</h3>
+			<p>This is one of the most ideal locations. Your reader just got done reading your awesome content and are hyped up on the subject matter. It&rsquo;s the perfect opportunity to present them with an offer.</p>
+			<p>Look how Adrianna presents an awesome content upgrade right after her post.</p>
+			<div class="image"><a href="http://mintswift.com/blog/pinterest-visibility/"><img src="https://s3-us-west-2.amazonaws.com/obstacleco-assets/wp-content/uploads/2016/08/22050732/mintswiftcontentupgrade.png"></a></div>
+			<p>Her readers learn all about how she grew her Pinterest visibility by 500% in one month and then are presented with a free BoardBooster e-book tutorial.</p>
+			<p>You best believe people are going to sign up for that!</p>
+			<h3>Within the Post</h3>
+			<p>Let&rsquo;s say you wrote a ridiculously awesome post that has people drooling for a solution. After the first two paragraphs they want what you&rsquo;re offering. After 10 paragraphs they still want whatever it is.</p>
+			<p>Should you make them scroll to the bottom to get it?</p>
+			<p>You don&rsquo;t have to.</p>
+			<p>You can offer your content upgrade within your blog post.</p>
+			<p><a href="http://www.melyssagriffin.com/pinterest-strategies/">Melyssa Griffin</a> is a wizard at doing this and it has worked wonders for her.</p>
+			<div class="image"><a href="http://www.melyssagriffin.com/pinterest-strategies/"><img src="https://s3-us-west-2.amazonaws.com/obstacleco-assets/wp-content/uploads/2016/08/22051223/melyssagriffincontentupgrade.png"></a></div>
+			<p>Be smart about your placement and do not just plop it down anywhere. Place it in a spot that follows up on an excellent point. Make it seem like the content upgrade is going to reinforce that point.</p>
+			<h3>Sidebar and Footer</h3>
+			<p>These are two other popular locations that you should try out. I usually don&rsquo;t work with sidebars because I like my content to stand out, but if you are going to utilize one, then you might as well get the most out of it.</p>
+			<p>I like having content upgrades in footers because it&rsquo;s similar to the PS in a letter or email.</p>
+			<p>Everybody scrolls down to the bottom to read.</p>
+			<p>If you are going to put something in the sidebar or footer then it will have to be one of your generic content upgrades that applies to most of your audience.</p>
+			<h2>Content Upgrades Are a Must</h2>
+			<p>The days of asking people to just sign up for regular updates is over. Everybody gets enough spam so they don&rsquo;t need more.</p>
+			<p>Use the rule of reciprocity to get their email address by giving them something great in return.</p>
+			<p>The increase in subscribers you&rsquo;ll get with content upgrades can not be understated.</p>
+			<p>I don&rsquo;t launch a site until I have one or two content upgrades ready to go out the door.</p>
 			<div class="callout">
 				<p>Did you end up here because someone was kind enough to link this page? That&rsquo;s cool, but you&rsquo;ll want to sign up yourself so you can experience all 7 days of this list-building challenge.</p>
 				<p><a data-open="emailModal" class="button expanded">Start Your Free 7-Day Challenge</a></p>
