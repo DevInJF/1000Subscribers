@@ -301,7 +301,7 @@
 <section class="content oil">
 	<div class="row">
 		<div class="small-12 columns">
-			<h2 class="text-center">I&rsquo;ve <em>made over $160,000 in the past 18 months</em> thanks to my ability to build mailing lists.</h2>
+			<h2 class="text-center">I&rsquo;ve <em>made over $160,000 in the past 18 months</em> thanks to my ability to grow mailing lists.</h2>
 			<h3 class="text-center">They are the difference between living the dream and simply dreaming about it.</h3>
 		</div>
 	</div>
