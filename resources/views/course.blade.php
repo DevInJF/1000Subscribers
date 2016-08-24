@@ -68,7 +68,7 @@
 		<div class="small-12 columns">
 			<h2 class="text-center">Build a quality list and make quality money</h2>
 			<p>The goal of building your list isn&rsquo;t to add anybody and everybody. The goal is to build a list of quality leads that want to buy your products and services in the future.</p>
-			<p>Here is what I did with a list of 207 people.</p>
+			<p>Here is what you could do with a list of 207 people.</p>
 			<div class="image"><img src="/assets/img/landing_assets/paypal.png"></div>
 			<p><strong>$6,567.14.</strong></p>
 			<p>This is in the third of month of the blog&rsquo;s existence. You don&rsquo;t need a large amount of traffic or subscribers to start making good money with your blog.</p>
