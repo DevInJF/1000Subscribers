@@ -17,9 +17,16 @@
 		}
 	}
 
+	.double {
+		max-width: 100%;
+		background-color: $white;
+		border: 3px double $light-gray;
+		padding-bottom: 0;
+	}
+
 	h2, h3, h4 {
 		text-align: center;
-		max-width: 40rem;
+		//max-width: 40rem;
 		margin-left: auto;
 		margin-right: auto;
 	}
@@ -35,8 +42,22 @@
 		}
 	}
 
+	.caption {
+		font-style: italic;
+		font-size: rem-calc(16);
+		margin-top: 0;
+		text-align: center;
+	}
+
 	.jumbo {
 		max-width: 100%;
+	}
+	td {
+		border-bottom: 1px solid $smoke;
+	}
+	tr.heading {
+		background-color: $smoke;
+		font-weight: $global-weight-bold;
 	}
 }
 

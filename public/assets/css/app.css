@@ -130,9 +130,13 @@ a {
     .content .callout .button, .toc .callout .button, .gray .callout .button, .blue .callout .button, .red .callout .button, .oil .callout .button {
       margin-bottom: 0;
       font-weight: 700; }
+  .content .double, .toc .double, .gray .double, .blue .double, .red .double, .oil .double {
+    max-width: 100%;
+    background-color: #fefefe;
+    border: 3px double #e6e6e6;
+    padding-bottom: 0; }
   .content h2, .toc h2, .gray h2, .blue h2, .red h2, .oil h2, .content h3, .toc h3, .gray h3, .blue h3, .red h3, .oil h3, .content h4, .toc h4, .gray h4, .blue h4, .red h4, .oil h4 {
     text-align: center;
-    max-width: 40rem;
     margin-left: auto;
     margin-right: auto; }
   .content h2, .toc h2, .gray h2, .blue h2, .red h2, .oil h2 {
@@ -143,8 +147,18 @@ a {
     .content .image img, .toc .image img, .gray .image img, .blue .image img, .red .image img, .oil .image img {
       padding: 0.25rem;
       border: 1px solid #EEEEEE; }
+  .content .caption, .toc .caption, .gray .caption, .blue .caption, .red .caption, .oil .caption {
+    font-style: italic;
+    font-size: 0.8rem;
+    margin-top: 0;
+    text-align: center; }
   .content .jumbo, .toc .jumbo, .gray .jumbo, .blue .jumbo, .red .jumbo, .oil .jumbo {
     max-width: 100%; }
+  .content td, .toc td, .gray td, .blue td, .red td, .oil td {
+    border-bottom: 1px solid #EEEEEE; }
+  .content tr.heading, .toc tr.heading, .gray tr.heading, .blue tr.heading, .red tr.heading, .oil tr.heading {
+    background-color: #EEEEEE;
+    font-weight: 700; }
 
 .article h2 {
   margin-bottom: 1rem; }
@@ -3380,7 +3394,7 @@ table {
       font-weight: 700;
       text-align: left; }
   table tbody tr:nth-child(even) {
-    background-color: #f1f1f1; }
+    background-color: #fefefe; }
   table tbody th,
   table tbody td {
     padding: 0.4rem 0.5rem 0.5rem; }
