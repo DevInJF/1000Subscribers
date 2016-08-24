@@ -269,6 +269,10 @@
 			<p>When new versions launch, you&rsquo;ll have access.</p>
 			<p>When new features are added, you&rsquo;ll have access.</p>
 			<p><strong>Pay once, learn forever.</strong></p>
+			<h3>Bonus #1: Powerful Pinterest Profiting</h3>
+			<p>Pinterest is a hidden business gem. It&rsquo;s time you mastered it&rsquo;s secrets to help you grow your mailing list, traffic, and revenue on auto-pilot. This 5-module course will get you all setup and rocking.</p>
+			<h3>Bonus #2: Grasping Google Analytics</h3>
+			<p>You can&rsquo;t grow anything effectively without analytics. Google Analytics is the most popular analytics platform on the planet. Isn&rsquo;t it time for you to understand what all of those fancy lines and numbers mean with this killer 7-module course?</p>
 		</div>
 	</div>
 </section>
