@@ -81,6 +81,11 @@
 			<p>Now that every site in the world offers a content upgrade, what can you create that will make you stand out from the rest?</p>
 			<p>Look at the bigger sites in your niche and see what type of content upgrades they offer their audience. Rarely are they things that take weeks to make. Instead, they are useful upgrades that can be done in a couple of hours.</p>
 			<p>The key is that the content upgrade follows the context of the blog post.</p>
+			<h2>Today&rsquo;s Tasks</h2>
+			<ul>
+				<li>Look at your conversion numbers. If you email service provider doesn&rsquo;t offer any type of analytics then you can look at your traffic numbers and compare them to your subscriber numbers.</li>
+				<li>Set up a landing page for your best content upgrade.</li>
+			</ul>
 			<div class="callout">
 				<p>Did you end up here because someone was kind enough to link this page? That&rsquo;s cool, but you&rsquo;ll want to sign up yourself so you can experience all 7 days of this list-building challenge.</p>
 				<p><a data-open="emailModal" class="button expanded">Start Your Free 7-Day Challenge</a></p>
