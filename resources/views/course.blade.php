@@ -90,7 +90,7 @@
 		<div class="small-12 large-4 columns">
 			<div class="benefits-box">
 				<h3 class="text-center">Happiness</h3>
-				<p>You know what happens when you start to see positive results? You become a happier person. Imagine waking up and seeing emails from people that have brought your products and services.</p>
+				<p>You know what happens when you start to see positive results? You become a happier person. Imagine waking up and seeing emails from people that have bought your products and services.</p>
 			</div>
 		</div>
 		<div class="small-12 large-4 columns">
