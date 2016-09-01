@@ -10,7 +10,7 @@
         </div>
     </div>
 </section>
-<section class="content">
+<section class="content article">
 	<div class="row">
 		<div class="small-12 columns">
 			<div class="callout">
