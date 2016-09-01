@@ -114,10 +114,6 @@
 				<li>Take a screenshot of your homepage (I use <em>Full Page Screen Capture</em> Chrome extension) and check to see how scannable your page is</li>
 				<li>Make sure all of your CTAs (call-to-action) are obvious. A form should look like a form and a button should look like a button.</li>
 			</ul>
-			<div class="callout">
-				<p>Did you end up here because someone was kind enough to link this page? That&rsquo;s cool, but you&rsquo;ll want to sign up yourself so you can experience all 7 days of this list-building challenge.</p>
-				<p><a data-open="emailModal" class="button expanded">Start Your Free 7-Day Challenge</a></p>
-			</div>
 		</div>
 	</div>
 </section>

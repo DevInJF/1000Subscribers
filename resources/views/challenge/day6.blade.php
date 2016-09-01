@@ -67,10 +67,6 @@
 			<ul>
 				<li>Think about prizes that would fit your audience and are enticing enough that they&rsquo;ll want to enter</li>
 			</ul>
-			<div class="callout">
-				<p>Did you end up here because someone was kind enough to link this page? That&rsquo;s cool, but you&rsquo;ll want to sign up yourself so you can experience all 7 days of this list-building challenge.</p>
-				<p><a data-open="emailModal" class="button expanded">Start Your Free 7-Day Challenge</a></p>
-			</div>
 		</div>
 	</div>
 </section>

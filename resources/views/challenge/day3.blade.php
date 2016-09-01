@@ -83,10 +83,6 @@
 				<li>Think of 3 blog post titles that you could write for them and those will be in your pitch.</li>
 			</ul>
 			<p>If you have a site that would benefit the Obstacle.co audience and have some ideas for guest posts then send them my way. I&rsquo;m always open to great content.</p>
-			<div class="callout">
-				<p>Did you end up here because someone was kind enough to link this page? That&rsquo;s cool, but you&rsquo;ll want to sign up yourself so you can experience all 7 days of this list-building challenge.</p>
-				<p><a data-open="emailModal" class="button expanded">Start Your Free 7-Day Challenge</a></p>
-			</div>
 		</div>
 	</div>
 </section>

@@ -86,10 +86,6 @@
 				<li>Look at your conversion numbers. If you email service provider doesn&rsquo;t offer any type of analytics then you can look at your traffic numbers and compare them to your subscriber numbers.</li>
 				<li>Set up a landing page for your best content upgrade.</li>
 			</ul>
-			<div class="callout">
-				<p>Did you end up here because someone was kind enough to link this page? That&rsquo;s cool, but you&rsquo;ll want to sign up yourself so you can experience all 7 days of this list-building challenge.</p>
-				<p><a data-open="emailModal" class="button expanded">Start Your Free 7-Day Challenge</a></p>
-			</div>
 		</div>
 	</div>
 </section>

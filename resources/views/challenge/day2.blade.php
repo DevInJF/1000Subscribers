@@ -157,10 +157,6 @@
 				<li>Go to a blog that you like to frequent in your industry and read some of the more popular posts. If you aren&rsquo;t sure which posts are the most popular then use a tool like <a href="http://buzzsumo.com">Buzzsumo</a> to figure it out. Study these posts and figure out why people want to share them.</li>
 				<li>For your next blog post write 25 headlines for it. Yep, 25. The more practice you get with headline writing, the better off you will be. Which headline sticks out to you?</li>
 			</ul>
-			<div class="callout">
-				<p>Did you end up here because someone was kind enough to link this page? That&rsquo;s cool, but you&rsquo;ll want to sign up yourself so you can experience all 7 days of this list-building challenge.</p>
-				<p><a data-open="emailModal" class="button expanded">Start Your Free 7-Day Challenge</a></p>
-			</div>
 		</div>
 	</div>
 </section>
