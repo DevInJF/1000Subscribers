@@ -13,7 +13,7 @@
 <section class="content oil">
 	<div class="row">
 		<div class="small-12 columns">
-			<h2 class="text-center">Discover how I made <em>$7,351.64</em> in less than <em>90 days</em> with an email list of just <em>300 people</em>.</h2>
+			<h2 class="text-center">Discover how I made <em>$8,048.64</em> in less than <em>90 days</em> with an email list of just <em>300 people</em>.</h2>
 			<h3 class="text-center">Trust me, you can do it too.</h3>
 		</div>
 	</div>
