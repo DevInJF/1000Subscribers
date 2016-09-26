@@ -17,7 +17,8 @@
         <li class="has-submenu is-down-arrow">
           <a href="/dashboard">Hi, {{ Auth::user()->first_name }}</a>
           <ul class="submenu menu is-dropdown-submenu">
-            <!--<li class="is-submenu-item is-dropdown-submenu-item"><a href="/student/{{ Auth::user()->id }}">View Profile</a></li>-->
+            <li class="is-submenu-item is-dropdown-submenu-item"><a href="/student/{{ Auth::user()->id }}">View Profile</a></li>
+            <li class="is-submenu-item is-dropdown-submenu-item"><a href="/profile/edit">Edit Profile</a></li>
             <li class="is-submenu-item is-dropdown-submenu-item"><a href="/settings">Edit Settings</a></li>
             <li class="is-submenu-item is-dropdown-submenu-item"><a href="/logout">Logout</a></li>
           </ul>

@@ -9,6 +9,9 @@
 				<label for="question">Question
 					<input type="text" name="question" id="question">
 				</label>
+				<label for="description">Description
+					<textarea name="description" rows="8"></textarea>
+				</label>
 				<label for="number">Section Number
 					<select name="section_id">
 						@foreach($sections as $section)

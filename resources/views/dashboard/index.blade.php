@@ -13,7 +13,6 @@
 		<div class="small-12 columns">
 		</div>
 		<div class="small-12 large-8 columns">
-			<h3>Modules</h3>
 			<table>
 				<thead>
 					<tr>
@@ -36,6 +35,10 @@
 		<div class="small-12 large-4 columns">
 			<div class="sidebar">
 				<h3>Activity</h3>
+				<ul class="no-bullet">
+					<li>Paul Scrivens answered <a href="#">how do you go about handling your business.</a></li>
+					<li>Paul Scrivens answered <a href="#">how do you go about handling your business.</a></li>
+				</ul>
 			</div>
 		</div>
 	</div>

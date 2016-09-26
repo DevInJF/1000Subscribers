@@ -263,6 +263,13 @@ footer {
     font-style: normal;
     font-weight: 700;
     line-height: 1; }
+  .dashboard-header .subheader {
+    color: #fefefe;
+    margin-bottom: 0; }
+  .dashboard-header a {
+    color: #FED766; }
+    .dashboard-header a:hover {
+      color: #fefefe; }
 
 .dashboard {
   padding: 2rem 0; }
@@ -274,6 +281,16 @@ footer {
     background-color: #EEEEEE;
     padding: 1rem;
     border: 1px solid #e6e6e6; }
+    .dashboard .sidebar ul {
+      margin-bottom: 0; }
+    .dashboard .sidebar li {
+      font-size: 0.8rem;
+      margin-bottom: 1rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #e6e6e6; }
+      .dashboard .sidebar li:last-child {
+        border-bottom: none;
+        margin-bottom: 0; }
 
 /**
  * Foundation for Sites by ZURB
@@ -2802,7 +2819,7 @@ select {
 .label {
   display: inline-block;
   padding: 0.33333rem 0.5rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1;
   white-space: nowrap;
   cursor: default;

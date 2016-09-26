@@ -44,6 +44,7 @@ class QuestionController extends Controller
         $question = Question::create([
             'question' => $request->question,
             'section_id' => $request->section_id,
+            'description' => $request->description,
         ]);
 
         return redirect('question/'.$question->id);

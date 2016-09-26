@@ -15,8 +15,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('dashboard', 'DashboardController@index');
-
 Route::get('7-day-challenge', function () {
 	return view('challenge');
 });
@@ -70,10 +68,14 @@ Route::get('order', function () {
 Route::get('course', function () {
 	return view('course');
 });
+Route::group(['middleware' => 'auth'], function () {
+	Route::get('dashboard', 'DashboardController@index');
+	Route::resource('module', 'ModuleController');
+	Route::resource('section', 'SectionController');
+	Route::resource('question', 'QuestionController');
+	Route::resource('answer', 'AnswerController');
 
-Route::resource('module', 'ModuleController');
-Route::resource('section', 'SectionController');
-Route::resource('question', 'QuestionController');
-Route::resource('answer', 'AnswerController');
+	Route::get('student/{id}', 'UserController@profile');
+});
 
 Route::auth();
