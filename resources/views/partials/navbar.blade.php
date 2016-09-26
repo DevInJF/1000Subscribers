@@ -7,14 +7,15 @@
   @if (Auth::check())
     <div class="top-bar-left">
       <ul class="vertical medium-horizontal menu" data-dropdown-menu>
-        <li class="menu-text hide-for-small-only"><a href="/">1000 Subscribers</a></li>
+        <li class="menu-text hide-for-small-only"><a href="/dashboard">1000 Subscribers</a></li>
+        <li class="alt-text hide-for-small-only">An <a href="https://obstacle.co" target="_blank">Obstacle.co</a> Course</li>
         <!--<li @if (Request::is('series*')) class="active" @endif><a href="/dashboard">Series</a></li>-->
       </ul>
     </div>
     <div class="top-bar-right">
       <ul class="dropdown menu" data-dropdown-menu>
         <li class="has-submenu is-down-arrow">
-          <a href="/dashboard">Hi, {{ Auth::user()->name }}</a>
+          <a href="/dashboard">Hi, {{ Auth::user()->first_name }}</a>
           <ul class="submenu menu is-dropdown-submenu">
             <!--<li class="is-submenu-item is-dropdown-submenu-item"><a href="/student/{{ Auth::user()->id }}">View Profile</a></li>-->
             <li class="is-submenu-item is-dropdown-submenu-item"><a href="/settings">Edit Settings</a></li>

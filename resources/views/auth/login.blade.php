@@ -1,66 +1,36 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container">
-    <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-            <div class="panel panel-default">
-                <div class="panel-heading">Login</div>
-                <div class="panel-body">
-                    <form class="form-horizontal" role="form" method="POST" action="{{ url('/login') }}">
-                        {{ csrf_field() }}
-
-                        <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}">
-                            <label for="email" class="col-md-4 control-label">E-Mail Address</label>
-
-                            <div class="col-md-6">
-                                <input id="email" type="email" class="form-control" name="email" value="{{ old('email') }}">
-
-                                @if ($errors->has('email'))
-                                    <span class="help-block">
-                                        <strong>{{ $errors->first('email') }}</strong>
-                                    </span>
-                                @endif
-                            </div>
-                        </div>
-
-                        <div class="form-group{{ $errors->has('password') ? ' has-error' : '' }}">
-                            <label for="password" class="col-md-4 control-label">Password</label>
-
-                            <div class="col-md-6">
-                                <input id="password" type="password" class="form-control" name="password">
-
-                                @if ($errors->has('password'))
-                                    <span class="help-block">
-                                        <strong>{{ $errors->first('password') }}</strong>
-                                    </span>
-                                @endif
-                            </div>
-                        </div>
-
-                        <div class="form-group">
-                            <div class="col-md-6 col-md-offset-4">
-                                <div class="checkbox">
-                                    <label>
-                                        <input type="checkbox" name="remember"> Remember Me
-                                    </label>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="form-group">
-                            <div class="col-md-6 col-md-offset-4">
-                                <button type="submit" class="btn btn-primary">
-                                    <i class="fa fa-btn fa-sign-in"></i> Login
-                                </button>
-
-                                <a class="btn btn-link" href="{{ url('/password/reset') }}">Forgot Your Password?</a>
-                            </div>
-                        </div>
-                    </form>
+<section class="dashboard">
+    <div class="row content">
+        <div class="small-12 large-6 large-offset-3 columns">
+            <h2 class="text-center">Login</h2>
+            @include('partials.errors')
+            @include('partials.success')
+            {!! Form::open(['url' => 'login', 'class' => 'callout']) !!}
+                <div class="row">
+                    <div class="large-6 columns">
+                        {!! Form::label('email', 'Email') !!}
+                        {!! Form::email('email', old('email'), ['class' => 'radius']) !!}
+                    </div>
+                    <div class="large-6 columns">
+                        {!! Form::label('password', 'Password') !!}
+                        {!! Form::password('password', ['class' => 'radius']) !!}
+                    </div>
                 </div>
-            </div>
+                <div class="row">
+                    <div class="large-6 columns">
+                        {!! Form::checkbox('remember') !!} Remember Me<br>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-12 columns">
+                        {!! Form::submit('Login', array('class' => 'button expanded')) !!}
+                    </div>
+                </div>
+            {!! Form::close() !!}
+            <p class="text-center">Forget your password or it isn&rsquo;t working? <a href="/password/email">You might need to reset it.</a></p>
         </div>
     </div>
-</div>
+</section>
 @endsection

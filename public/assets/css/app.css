@@ -31,7 +31,7 @@ a {
   background: linear-gradient(to left, rgba(0, 185, 189, 0.85) 10%, rgba(0, 185, 189, 0.85) 90%), url("/assets/img/audience.jpg") no-repeat center fixed;
   background-size: cover; }
   .top-bar .top-bar-right {
-    margin-top: 15px; }
+    margin-top: 10px; }
   .top-bar li a {
     font-family: "proxima-nova", sans-serif;
     font-weight: 700; }
@@ -252,6 +252,28 @@ footer {
     .cta button:hover {
       background-color: #EEEEEE;
       color: #333333; }
+
+.dashboard-header {
+  padding: 1rem 0 0.6rem;
+  background: linear-gradient(to left, rgba(51, 51, 51, 0.95) 10%, rgba(51, 51, 51, 0.95) 90%), url("/assets/img/audience.jpg") no-repeat center fixed;
+  background-size: cover;
+  color: #fefefe; }
+  .dashboard-header h2, .dashboard-header h3 {
+    font-family: "proxima-nova", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1; }
+
+.dashboard {
+  padding: 2rem 0; }
+  .dashboard h2, .dashboard h3 {
+    font-family: "proxima-nova", sans-serif;
+    font-style: normal;
+    font-weight: 700; }
+  .dashboard .sidebar {
+    background-color: #EEEEEE;
+    padding: 1rem;
+    border: 1px solid #e6e6e6; }
 
 /**
  * Foundation for Sites by ZURB
@@ -2540,7 +2562,7 @@ select {
   width: 0;
   height: 0;
   border: inset 5px;
-  border-color: #F63700 transparent transparent;
+  border-color: #fefefe transparent transparent;
   border-top-style: solid;
   border-bottom-width: 0;
   right: 5px;
@@ -2573,7 +2595,7 @@ select {
   width: 0;
   height: 0;
   border: inset 5px;
-  border-color: transparent #F63700 transparent transparent;
+  border-color: transparent #fefefe transparent transparent;
   border-right-style: solid;
   border-left-width: 0; }
 
@@ -2583,7 +2605,7 @@ select {
   width: 0;
   height: 0;
   border: inset 5px;
-  border-color: transparent transparent transparent #F63700;
+  border-color: transparent transparent transparent #fefefe;
   border-left-style: solid;
   border-right-width: 0; }
 
@@ -2605,7 +2627,7 @@ select {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: #F63700 transparent transparent;
+    border-color: #fefefe transparent transparent;
     border-top-style: solid;
     border-bottom-width: 0;
     right: 5px;
@@ -2627,7 +2649,7 @@ select {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: transparent #F63700 transparent transparent;
+    border-color: transparent #fefefe transparent transparent;
     border-right-style: solid;
     border-left-width: 0; }
   .dropdown.menu.medium-vertical > li.opens-right > a::after {
@@ -2636,7 +2658,7 @@ select {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: transparent transparent transparent #F63700;
+    border-color: transparent transparent transparent #fefefe;
     border-left-style: solid;
     border-right-width: 0; } }
 
@@ -2658,7 +2680,7 @@ select {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: #F63700 transparent transparent;
+    border-color: #fefefe transparent transparent;
     border-top-style: solid;
     border-bottom-width: 0;
     right: 5px;
@@ -2680,7 +2702,7 @@ select {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: transparent #F63700 transparent transparent;
+    border-color: transparent #fefefe transparent transparent;
     border-right-style: solid;
     border-left-width: 0; }
   .dropdown.menu.large-vertical > li.opens-right > a::after {
@@ -2689,7 +2711,7 @@ select {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: transparent transparent transparent #F63700;
+    border-color: transparent transparent transparent #fefefe;
     border-left-style: solid;
     border-right-width: 0; } }
 
@@ -2738,7 +2760,7 @@ select {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: transparent #F63700 transparent transparent;
+    border-color: transparent #fefefe transparent transparent;
     border-right-style: solid;
     border-left-width: 0; }
   .is-dropdown-submenu .is-dropdown-submenu-parent.opens-right > a::after {
@@ -2747,7 +2769,7 @@ select {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: transparent transparent transparent #F63700;
+    border-color: transparent transparent transparent #fefefe;
     border-left-style: solid;
     border-right-width: 0; }
   .is-dropdown-submenu .is-dropdown-submenu {
@@ -2780,7 +2802,7 @@ select {
 .label {
   display: inline-block;
   padding: 0.33333rem 0.5rem;
-  font-size: 0.8rem;
+  font-size: 1rem;
   line-height: 1;
   white-space: nowrap;
   cursor: default;

@@ -1,0 +1,27 @@
+.dashboard-header {
+	padding: 1rem 0 rem-calc(12);
+	background: linear-gradient(to left, rgba($oil, 0.95) 10%, rgba($oil, 0.95) 90%), url('/assets/img/audience.jpg') no-repeat center fixed;
+	background-size: cover;
+	h2, h3 {
+		font-family: $body-font-family;
+		font-style: normal;
+		font-weight: 700;
+		line-height: 1;
+	}
+	color: $white;
+}
+
+.dashboard {
+	padding: 2rem 0;
+	h2, h3 {
+		font-family: $body-font-family;
+		font-style: normal;
+		font-weight: 700;
+	}
+
+	.sidebar {
+		background-color: $smoke;
+		padding: 1rem;
+		border: 1px solid $light-gray;
+	}
+}
