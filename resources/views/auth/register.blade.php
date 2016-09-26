@@ -1,11 +1,17 @@
 @extends('layouts.app')
 
 @section('content')
+<section class="dashboard-header">
+    <div class="row">
+        <div class="small-12 columns">
+            <h2 class="text-center">Set Up Your 1000 Subscribers Account</h2>
+        </div>
+    </div>
+</section>
 <section class="content">
     <div class="row">
         <div class="small-12 medium-6 medium-offset-3 columns">
             @include('partials.errors')
-            <h2 class="text-center">Set Up Your Gain 1,000 Account</h2>
             {!! Form::open(['url' => 'register', 'class' => 'callout']) !!}
                 <div class="row">
                     <div class="small-12 large-6 columns">

@@ -97,7 +97,9 @@ a {
     font-weight: 700; }
   .hero h1 {
     border-bottom: 3px double rgba(254, 254, 254, 0.5);
-    padding-bottom: 1rem; }
+    padding-bottom: 1rem;
+    font-family: "proxima-nova", sans-serif;
+    font-style: normal; }
   .hero .button {
     background-color: #FED766;
     border: 3px solid #fefefe;

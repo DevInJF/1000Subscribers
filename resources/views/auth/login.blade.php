@@ -1,10 +1,16 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="dashboard">
-    <div class="row content">
-        <div class="small-12 large-6 large-offset-3 columns">
+<section class="dashboard-header">
+    <div class="row">
+        <div class="small-12 columns">
             <h2 class="text-center">Login</h2>
+        </div>
+    </div>
+</section>
+<section class="dashboard">
+    <div class="row">
+        <div class="small-12 large-6 large-offset-3 columns">
             @include('partials.errors')
             @include('partials.success')
             {!! Form::open(['url' => 'login', 'class' => 'callout']) !!}
